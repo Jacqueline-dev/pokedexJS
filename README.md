@@ -9,7 +9,7 @@ Uma pokedex que filtra todos os pokemons.
 * Javascript
 * API Pokeapi
 
-### Conheça o projeto
+### Conheça o projeto:
 
 ![pokedex](https://user-images.githubusercontent.com/64090350/157752287-f7a244ec-4160-4fc8-bb46-67b90c25882b.jpg)
 
